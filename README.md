@@ -10,7 +10,7 @@ AI Agent Engineer & ML Researcher — building verifiable agent harnesses, perso
 
 - **AI Agent Engineering** — Vertical document harnesses ([MinerU Data Agent](https://github.com/codezzzsleep/mineru-data-agent)), AI Native OS apps ([OnCue](https://github.com/codezzzsleep/OnCue)), and unified multi-agent workspaces ([WebDCC](https://github.com/codezzzsleep/WebDCC))
 - **Open Source** — External contributor to [SoduWork](https://github.com/mdiri-ai/SoduWork/pulls?q=is%3Apr+author%3Acodezzzsleep+is%3Amerged) (7.5k+ ★, 23 merged PRs) & creator of [research-ppt-skill](https://github.com/codezzzsleep/research-ppt-skill) (10 ★)
-- **Research Foundations** — Graph neural networks, semi-supervised & self-supervised representation learning ([GLCN-PyTorch](https://github.com/codezzzsleep/GLCN-pytorch), [GNN](https://github.com/codezzzsleep/GNN), [self-supervised](https://github.com/codezzzsleep/self-supervised))
+- **Research Directions** — AI Agent for Science in embodied intelligence, and Voice-first OS interfaces for spatial computing and wearable devices
 - **Exploring Next** — AI Agent for Science × Embodied Intelligence ([BeforeStep](https://github.com/codezzzsleep/next-zenith-beforestep), [Agentic Observer](https://github.com/codezzzsleep/gosim26-agentic-observer)), and Voice-first OS for spatial computing & wearables
 
 ### Highlights
