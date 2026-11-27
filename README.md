@@ -18,4 +18,5 @@ AI Agent Engineer & ML Researcher — building verifiable agent harnesses, perso
 
 - **GOSIM 2026** — 1st Prize, Agentic App ([OnCue](https://create.gosim.org/agenticapp26/#winners)) &amp; 3rd Prize / Final 6th, Agentic Observer ([Leaderboard](https://create.gosim.org/survey26/platform/leaderboard/final-hidden))
 - **MDIC 2026** — 3rd Prize, Agent Capability Track ([MinerU Data Agent](https://mineru.net/MDIC2026/competition))
+- **Aholo Global 3D AI Hackathon**. Next Zenith's [BeforeStep · 先见一步](https://github.com/codezzzsleep/next-zenith-beforestep) was selected for the [Top 50](https://www.aholo.cn/hackathon/top50).
 - **Open Source**. 31 merged PRs in [SoduWork](https://github.com/mdiri-ai/SoduWork/pulls?q=is%3Apr+author%3Acodezzzsleep+is%3Amerged) spanning permission regression gates, session state, and task recovery
